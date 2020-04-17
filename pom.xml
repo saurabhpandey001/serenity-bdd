@@ -108,8 +108,8 @@
                 <version>2.18</version>
                 <configuration>
                     <includes>
-                        <include>**/gettingstarted/**/*.java</include>
-                        <include>**/gettingstarted/*.java</include>
+                        <include>**/bdd/**/*.java</include>
+                        <include>**/bdd/*.java</include>
                     </includes>
                     <argLine>-Xmx1024m -XX:MaxPermSize=256m</argLine>
                 </configuration>
